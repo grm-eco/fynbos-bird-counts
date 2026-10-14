@@ -4,6 +4,8 @@ Point counts of birds at eight fynbos sites near Cape Town, four restored after 
 
 This is a small demonstration project used in the lab's introduction to Git and GitHub. The data are simulated.
 
+Glenn was here. Wassup
+
 ## Data
 
 `data/bird_counts.csv` has one row per species per visit.
